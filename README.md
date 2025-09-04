@@ -50,8 +50,11 @@ python anonymize_dataset.py
 The anonymized dataset will be saved as:
 
 synthetic_dataset_anonymized.csv
-synthetic_dataset_k_anonymized.csv
-Notes
+synthetic_dataset_k_anonymized.csv```
+
+---
+
+## Notes
 The script uses generalization, suppression, pseudonymization, and noise addition to protect sensitive information.
 
 Random noise in contact numbers changes with each run. Set a random seed if reproducibility is needed.
