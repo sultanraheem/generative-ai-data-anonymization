@@ -40,22 +40,15 @@ The anonymization script performs the following:
 git clone https://github.com/your-username/synthetic-dataset-anonymization.git
 Install dependencies:
 
-bash
-Copy code
 pip install pandas
 Update the file path in the script to your CSV file:
 
-python
-Copy code
 df = pd.read_csv(r"C:\path\to\your\synthetic_dataset.csv")
 Run the script:
 
-bash
-Copy code
 python anonymize_dataset.py
 The anonymized dataset will be saved as:
 
-Copy code
 synthetic_dataset_anonymized.csv
 synthetic_dataset_k_anonymized.csv
 Notes
