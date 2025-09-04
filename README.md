@@ -2,7 +2,7 @@
 
 This repository contains a Python script to anonymize a synthetic dataset for privacy-preserving data analysis. **The original dataset is entirely synthetic and does not contain any real personally identifiable information (PII).**
 
-<img width="3750" height="1959" alt="Add a subheading" src="https://github.com/user-attachments/assets/dd562b19-9968-44bc-9bc0-6f059979d6dd" />
+<img width="3750" height="1959" alt="data-anonymization" src="https://github.com/user-attachments/assets/04ee503a-ae25-4044-85f1-b7f0abb54921" />
 
 ---
 
