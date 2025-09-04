@@ -49,7 +49,7 @@ python anonymize_dataset.py
 The anonymized dataset will be saved as:
 
 synthetic_dataset_anonymized.csv
-synthetic_dataset_k_anonymized.csv```
+synthetic_dataset_k_anonymized.csv
 
 ---
 
